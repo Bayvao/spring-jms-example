@@ -11,7 +11,7 @@ import lombok.NoArgsConstructor;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-public class HelloWordMessage implements Serializable{
+public class HelloWorldMessage implements Serializable{
 
 	private static final long serialVersionUID = 1L;
 	
